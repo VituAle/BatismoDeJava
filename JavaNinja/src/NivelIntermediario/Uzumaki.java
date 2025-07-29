@@ -1,5 +1,7 @@
 package NivelIntermediario;
 
+
+
 public class Uzumaki extends Ninja {
 
     public void ModoSabioAtivado() {

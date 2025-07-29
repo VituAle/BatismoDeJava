@@ -1,5 +1,7 @@
 package NivelIntermediario;
 
+
+
 public class Hyuga extends Ninja {
 
     public void BiakuganAtivado() {

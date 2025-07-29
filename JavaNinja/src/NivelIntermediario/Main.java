@@ -1,5 +1,6 @@
 package NivelIntermediario;
 
+
 public class Main {
     public static void main(String[] args) {
 
@@ -8,6 +9,7 @@ public class Main {
         Naruto.idade = 16;
         Naruto.aldeia = "Aldeia da Folha ";
         Naruto.ModoSabioAtivado();
+
 
         Uchiha Sasuke = new Uchiha();
         Sasuke.nome = "Sasuke Uchiha";

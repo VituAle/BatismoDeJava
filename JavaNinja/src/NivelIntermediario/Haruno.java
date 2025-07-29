@@ -1,5 +1,7 @@
 package NivelIntermediario;
 
+
+
 public class Haruno extends Ninja {
 
     public void AtivarCura (){
