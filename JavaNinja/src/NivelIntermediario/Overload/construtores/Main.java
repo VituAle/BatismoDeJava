@@ -7,12 +7,9 @@ public class Main {
         // Obj ninja nao da pra ser criado por que é abstrato
 
         // Obj uzumaki
-        Uzumaki Naruto = new Uzumaki();
-        Naruto.nome = "Naruto Uzumaki";
-        Naruto.aldeia = "Aldeia da Folha";
-        Naruto.idade = 16;
+        Uzumaki Naruto = new Uzumaki("Naruto Uzumaki","Aldeia da Folha", 16,5,NivelNinja.GENIN, Biju.KURAMA);
         Naruto.habilidadeEspecial();
-        Naruto.EstrategiaDeBatalhaNinja();
+
 
         // Obj uchiha
         Uchiha Sasuke = new Uchiha("Sasuke uchiha", "Aldeia da folha", 18, 20, NivelNinja.GENIN);
